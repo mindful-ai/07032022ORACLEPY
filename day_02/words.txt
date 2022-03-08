@@ -1,0 +1,10 @@
+mango
+laptop
+mobile
+apples
+monkey
+kitten
+magic
+python
+curtain
+table
